@@ -15,6 +15,10 @@ public class KrishanaFlightBookingAgencyApplication {
 		//serviceI.getAllFlightAsycnData();
 		//serviceI.getAllFlightSyncData();
 		//serviceI.getAllFlightData();
+		
+		
+		
+		
 	}
 
 }
