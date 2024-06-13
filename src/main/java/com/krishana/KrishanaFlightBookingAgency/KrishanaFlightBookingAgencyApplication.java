@@ -13,6 +13,10 @@ public class KrishanaFlightBookingAgencyApplication {
 		ConfigurableApplicationContext context = SpringApplication.run(KrishanaFlightBookingAgencyApplication.class, args);
 		//KrishanaFlightBookingServiceI serviceI = context.getBean(KrishanaFlightBookingServiceI.class);
 		//serviceI.getAllFlightAsycnData();
+		//serviceI.getAllFlightAsycnData();
+		//serviceI.getAllFlightAsycnData();
+		//serviceI.getAllFlightAsycnData();
+
 		//serviceI.getAllFlightSyncData();
 		//serviceI.getAllFlightData();
 		
